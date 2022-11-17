@@ -1,0 +1,15 @@
+/home/olga/Рабочий стол/УЧЕБА/C_Sharp seminar/C_SHARP/bin/Debug/net6.0/C_SHARP
+/home/olga/Рабочий стол/УЧЕБА/C_Sharp seminar/C_SHARP/bin/Debug/net6.0/C_SHARP.deps.json
+/home/olga/Рабочий стол/УЧЕБА/C_Sharp seminar/C_SHARP/bin/Debug/net6.0/C_SHARP.runtimeconfig.json
+/home/olga/Рабочий стол/УЧЕБА/C_Sharp seminar/C_SHARP/bin/Debug/net6.0/C_SHARP.dll
+/home/olga/Рабочий стол/УЧЕБА/C_Sharp seminar/C_SHARP/bin/Debug/net6.0/C_SHARP.pdb
+/home/olga/Рабочий стол/УЧЕБА/C_Sharp seminar/C_SHARP/obj/Debug/net6.0/C_SHARP.csproj.AssemblyReference.cache
+/home/olga/Рабочий стол/УЧЕБА/C_Sharp seminar/C_SHARP/obj/Debug/net6.0/C_SHARP.GeneratedMSBuildEditorConfig.editorconfig
+/home/olga/Рабочий стол/УЧЕБА/C_Sharp seminar/C_SHARP/obj/Debug/net6.0/C_SHARP.AssemblyInfoInputs.cache
+/home/olga/Рабочий стол/УЧЕБА/C_Sharp seminar/C_SHARP/obj/Debug/net6.0/C_SHARP.AssemblyInfo.cs
+/home/olga/Рабочий стол/УЧЕБА/C_Sharp seminar/C_SHARP/obj/Debug/net6.0/C_SHARP.csproj.CoreCompileInputs.cache
+/home/olga/Рабочий стол/УЧЕБА/C_Sharp seminar/C_SHARP/obj/Debug/net6.0/C_SHARP.dll
+/home/olga/Рабочий стол/УЧЕБА/C_Sharp seminar/C_SHARP/obj/Debug/net6.0/refint/C_SHARP.dll
+/home/olga/Рабочий стол/УЧЕБА/C_Sharp seminar/C_SHARP/obj/Debug/net6.0/C_SHARP.pdb
+/home/olga/Рабочий стол/УЧЕБА/C_Sharp seminar/C_SHARP/obj/Debug/net6.0/C_SHARP.genruntimeconfig.cache
+/home/olga/Рабочий стол/УЧЕБА/C_Sharp seminar/C_SHARP/obj/Debug/net6.0/ref/C_SHARP.dll
