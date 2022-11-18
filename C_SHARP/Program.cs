@@ -161,26 +161,29 @@ else
 
 //ДЗ Задача 4. Принимается три числа, выдается наибольшее.
 /*
-Console.WriteLine("Введите первое число");
-int num1 = Convert.ToInt32(Console.ReadLine());
-Console.WriteLine("Введите второе число");
-int num2 = Convert.ToInt32(Console.ReadLine());
-Console.WriteLine("Введите третье число");
-int num3 = Convert.ToInt32(Console.ReadLine());
+{
+    Console.WriteLine("Введите первое число");
+    int num1 = Convert.ToInt32(Console.ReadLine());
+    Console.WriteLine("Введите второе число");
+    int num2 = Convert.ToInt32(Console.ReadLine());
+    Console.WriteLine("Введите третье число");
+    int num3 = Convert.ToInt32(Console.ReadLine());
 
-if(num1 >num2)
-{
-    Console.Write($" < {num1} ");
-}
-else if(num2 >num3)
-{
-    Console.Write($" < {num2} ");
-}
-else 
-{
-Console.Write($" < {num3} ");
+    int max = num1;
+
+    if (max < num2)
+
+        max = num2;
+
+    if (max < num3)
+        
+        max = num3;
+
+    Console.WriteLine($" < {max} ");
+
 }
 */
+
 // ДЗ Задача 6 Вводится число и сообщается четное оно или нет
 /*
 Console.WriteLine("Введите число");
@@ -197,11 +200,11 @@ Console.WriteLine($" {num} нечетное");
 
 //ДЗ Задача 8 Вводится число (N), а программа выдает все четные числа от 1 до (N)
 
-
-Console.WriteLine("Введите число");
+/*Console.WriteLine("Введите число");
 int num = Convert.ToInt32(Console.ReadLine());
 
 for( int i=1; i <=num; i++)
 {if(i %2==0)
 
 Console.WriteLine($" {i} ");}
+*/
