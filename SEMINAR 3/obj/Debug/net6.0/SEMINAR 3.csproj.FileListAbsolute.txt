@@ -1,0 +1,15 @@
+/home/olga/Рабочий стол/УЧЕБА/C_Sharp seminar/SEMINAR 3/bin/Debug/net6.0/SEMINAR 3
+/home/olga/Рабочий стол/УЧЕБА/C_Sharp seminar/SEMINAR 3/bin/Debug/net6.0/SEMINAR 3.deps.json
+/home/olga/Рабочий стол/УЧЕБА/C_Sharp seminar/SEMINAR 3/bin/Debug/net6.0/SEMINAR 3.runtimeconfig.json
+/home/olga/Рабочий стол/УЧЕБА/C_Sharp seminar/SEMINAR 3/bin/Debug/net6.0/SEMINAR 3.dll
+/home/olga/Рабочий стол/УЧЕБА/C_Sharp seminar/SEMINAR 3/bin/Debug/net6.0/SEMINAR 3.pdb
+/home/olga/Рабочий стол/УЧЕБА/C_Sharp seminar/SEMINAR 3/obj/Debug/net6.0/SEMINAR 3.csproj.AssemblyReference.cache
+/home/olga/Рабочий стол/УЧЕБА/C_Sharp seminar/SEMINAR 3/obj/Debug/net6.0/SEMINAR 3.GeneratedMSBuildEditorConfig.editorconfig
+/home/olga/Рабочий стол/УЧЕБА/C_Sharp seminar/SEMINAR 3/obj/Debug/net6.0/SEMINAR 3.AssemblyInfoInputs.cache
+/home/olga/Рабочий стол/УЧЕБА/C_Sharp seminar/SEMINAR 3/obj/Debug/net6.0/SEMINAR 3.AssemblyInfo.cs
+/home/olga/Рабочий стол/УЧЕБА/C_Sharp seminar/SEMINAR 3/obj/Debug/net6.0/SEMINAR 3.csproj.CoreCompileInputs.cache
+/home/olga/Рабочий стол/УЧЕБА/C_Sharp seminar/SEMINAR 3/obj/Debug/net6.0/SEMINAR 3.dll
+/home/olga/Рабочий стол/УЧЕБА/C_Sharp seminar/SEMINAR 3/obj/Debug/net6.0/refint/SEMINAR 3.dll
+/home/olga/Рабочий стол/УЧЕБА/C_Sharp seminar/SEMINAR 3/obj/Debug/net6.0/SEMINAR 3.pdb
+/home/olga/Рабочий стол/УЧЕБА/C_Sharp seminar/SEMINAR 3/obj/Debug/net6.0/SEMINAR 3.genruntimeconfig.cache
+/home/olga/Рабочий стол/УЧЕБА/C_Sharp seminar/SEMINAR 3/obj/Debug/net6.0/ref/SEMINAR 3.dll
